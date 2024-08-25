@@ -1,5 +1,6 @@
 # 0825 vllmに仕様変更 by hatakeyama
-'''
+
+```
 #8x8bの実行法
 #terminal1でvllmを立ち上げる
 model_name=team-hatakeyama-phase2/Tanuki-8x8B-dpo-v1.0
@@ -14,7 +15,7 @@ python3 src/japanese-task-evaluation.py --model_name $model_name
 
 
 
-'''
+```
 
 # 手順
 ```
