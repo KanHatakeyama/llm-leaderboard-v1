@@ -1,0 +1,14 @@
+langchain
+wandb
+huggingface_hub
+# torch==2.0.1
+datasets
+transformers
+sentencepiece
+fuzzywuzzy
+peft
+langchain-community
+scikit-learn
+#python-Levenshtein==0.21.1
+#chardet==5.1.0
+
